@@ -1,1 +1,2 @@
-# event-grabber
+# Event Grabber
+This application was built to collect a list of events using a group of the AthleteReg APIs that was used for partner acquisition campaigns. This APIs are the same, they just pull different event types. This represpesents calls made to the SkiReg platform.
